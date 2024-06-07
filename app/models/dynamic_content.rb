@@ -1,0 +1,2 @@
+class DynamicContent < ApplicationRecord
+end
